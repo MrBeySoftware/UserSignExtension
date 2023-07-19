@@ -1,3 +1,3 @@
 # UserSignExtension
 
-https://firebasestorage.googleapis.com/v0/b/fulluygulamayapalim-f24e5.appspot.com/o/component_method.png?alt=media&token=cabfcff1-263c-4704-927a-9408a9d5a913
+![component_method](https://github.com/FullUygulamayapalim/UserSignExtension/assets/60896169/6e5ebc4c-f609-49fb-b544-39e7d8b79220)
